@@ -1,2 +1,2 @@
 # Curso-html-Refatorando
-Curso básico em html da plataforma REFATORANDO
+Curso básico em html da plataforma REFATORANDO.
